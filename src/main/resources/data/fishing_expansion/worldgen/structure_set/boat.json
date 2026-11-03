@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "fishing_expansion:boat",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 15,
+    "spread_type": "linear",
+    "salt": 14357611
+  }
+}

@@ -1,0 +1,20 @@
+Fishing Expansion - Forge 1.20.1 port (unofficial)
+==================================================
+
+This is an unofficial port to Forge 1.20.1 of "Fishing Expansion" by lullaby
+(https://github.com/lullaby6 / https://modrinth.com/datapack/ly-fishing-expansion),
+originally a Minecraft 1.21.x datapack published under the
+GNU Affero General Public License, version 3 or (at your option) any later version.
+
+Parts derived from the original: the idea and weights of mob fishing, the design of the
+Sea Lure, Treasure Hunter, Hooked Strike, Ender Hook, Water Trail, Thundering and Dolphin's Grace
+enchantments, the treasure table, the explorer maps, the shipwreck barrels and the boat structure.
+New code in this port: the Java implementation of the enchantments and of mob fishing.
+
+This port is therefore distributed under the same license: AGPL-3.0-or-later.
+The full license text is available at https://www.gnu.org/licenses/agpl-3.0.txt .
+If you distribute this mod, you must also make the complete source code of this port available
+to the recipients (AGPL section 13 also covers use over a network), keep this notice, and keep the
+credit to the original author.
+
+All credit for the original design goes to lullaby.

@@ -1,0 +1,16 @@
+{
+  "enchantment.fishing_expansion.sea_lure": "Señuelo marino",
+  "enchantment.fishing_expansion.treasure_hunter": "Cazatesoros",
+  "enchantment.fishing_expansion.hooked_strike": "Golpe de anzuelo",
+  "enchantment.fishing_expansion.ender_hook": "Gancho de Ender",
+  "enchantment.fishing_expansion.water_trail": "Estela de agua",
+  "enchantment.fishing_expansion.thundering": "Tronante",
+  "enchantment.fishing_expansion.dolphins_grace": "Gracia del delfín",
+  "fishing_expansion.map.boat": "Mapa de barco",
+  "fishing_expansion.map.buried_treasure": "Mapa del tesoro enterrado",
+  "fishing_expansion.map.monument": "Mapa del monumento",
+  "fishing_expansion.map.ocean_ruin": "Mapa de ruinas oceánicas",
+  "fishing_expansion.map.ruined_portal": "Mapa de portal en ruinas oceánico",
+  "fishing_expansion.map.shipwreck": "Mapa de naufragio",
+  "fishing_expansion.item.shipwreck_loot": "Barril de naufragio"
+}

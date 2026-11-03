@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:barrel",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "fishing_expansion.item.shipwreck_loot"
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{BlockEntityTag:{LootTable:\"minecraft:chests/shipwreck_treasure\"}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
